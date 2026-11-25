@@ -8,6 +8,7 @@ Spring Boot setup
 Spring MVC Controller
 Request Mapping
 Thymeleaf integration
+Image integration using the Vistula University logo
 Endpoints
 Home Page
 URL:
@@ -27,6 +28,8 @@ Output:
 
 Hello, Claris!
 
+The page also displays the Vistula University logo.
+
 Technologies Used
 Java 21
 Spring Boot
@@ -35,7 +38,19 @@ Thymeleaf
 IntelliJ IDEA
 Application Screenshots
 Home Page
-Screenshot showing: Hello Vistula, in my first Spring controller.
+Screenshot showing:
+
+Hello Vistula, in my first Spring controller.
 
 Greeting Page
-Screenshot showing: Hello, Claris! 
+Screenshot showing:
+
+Hello, Claris!
+
+and the Vistula University logo displayed on the webpage.
+
+Author
+Claris Ropafadzo Muchono
+
+Exercise 16 - Task 1
+
