@@ -11,20 +11,20 @@ Thymeleaf integration
 Image integration using the Vistula University logo
 Endpoints
 Home Page
-URL:
+URL
 
 http://localhost:8080
 
-Output:
+Output
 
 Hello Vistula, in my first Spring controller.
 
 Greeting Page
-URL:
+URL
 
 http://localhost:8080/greeting?name=Claris
 
-Output:
+Output
 
 Hello, Claris!
 
@@ -38,19 +38,16 @@ Thymeleaf
 IntelliJ IDEA
 Application Screenshots
 Home Page
-Screenshot showing:
+![Home Page](Home%20Page.png)
 
-Hello Vistula, in my first Spring controller.
+Screenshot showing the main application page.
 
 Greeting Page
-Screenshot showing:
+![Greeting Page](Greeting%20Page.png)
 
-Hello, Claris!
-
-and the Vistula University logo displayed on the webpage.
+Screenshot showing the personalized greeting page with the Vistula University logo.
 
 Author
 Claris Ropafadzo Muchono
 
 Exercise 16 - Task 1
-
